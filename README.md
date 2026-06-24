@@ -49,3 +49,6 @@ streamlit run app.py
 
 ---
 *Built by Sumaksharika Nainavarapu | [LinkedIn](https://linkedin.com/in/sumaksharika) | [Portfolio](https://sumaksharika.com)*
+
+## 🌐 Live Demo
+**[View Live Dashboard](https://financial-risk-dashboard-ovjmqv7edtxfdeczx8zctv.streamlit.app)**
