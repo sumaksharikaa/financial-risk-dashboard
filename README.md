@@ -48,7 +48,7 @@ streamlit run app.py
 [Lending Club Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club) — 2.26M accepted loans from 2007 to 2018 (Kaggle, free).
 
 ---
-*Built by Sumaksharika Nainavarapu | [LinkedIn](https://linkedin.com/in/sumaksharika) | [Portfolio](https://sumaksharika.com)*
+*Built by Sumaksharika Nainavarapu | [LinkedIn](https://linkedin.com/in/sumaksharika)*
 
 ## 🌐 Live Demo
 **[View Live Dashboard](https://financial-risk-dashboard-ovjmqv7edtxfdeczx8zctv.streamlit.app)**
